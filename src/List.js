@@ -11,7 +11,7 @@ const List = ({people}) => {
                <img src={image}></img>
                <div className="info">
                    <h4>{name}</h4>
-               <p> {age} years</p> 
+               <p> {age}years</p> 
                </div>
 
            </article>
