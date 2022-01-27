@@ -5,7 +5,6 @@ const List = ({people}) => {
     return <>{ 
            people.map((person)=>{
             const {image,name,age,id} =person;
-
             
             return(
                  <article className='wrapper' key={id}>

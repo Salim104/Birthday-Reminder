@@ -15,7 +15,7 @@ function App() {
 
       <List people={people} ></List>
 
-      <button className="btn" onClick={handleClick}>clear All</button>
+      <button className="btn" onClick={handleClick}>Clear All</button>
     </section>
     )
   
